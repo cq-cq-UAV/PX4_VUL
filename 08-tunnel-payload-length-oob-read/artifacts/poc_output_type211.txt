@@ -1,0 +1,6 @@
+sent MAVLink2 TUNNEL to udp:127.0.0.1:18570
+  payload_type=211
+  payload_length=200 (payload buffer is 128 bytes)
+evidence ideas:
+  - on PX4 console: use 'listener mavlink_tunnel' or 'listener esc_serial_passthru' to observe payload_length
+  - on target with voxl_esc enabled: monitor for crash / sanitizer report / UART anomalies

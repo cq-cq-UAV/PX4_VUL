@@ -1,0 +1,50 @@
+ERROR [sensors] Accel #0 fail:  TIMEOUT!	
+ERROR [sensors] Accel #0 fail:  TIMEOUT!	
+WARN  [health_and_arming_checks] Preflight Fail: barometer 0 missing
+WARN  [health_and_arming_checks] Preflight Fail: Found 0 compass (required: 1)
+WARN  [health_and_arming_checks] Preflight Fail: barometer 0 missing
+WARN  [health_and_arming_checks] Preflight Fail: Found 0 compass (required: 1)
+ERROR [sensors] Accel #0 fail:  TIMEOUT!	
+WARN  [health_and_arming_checks] Preflight Fail: barometer 0 missing
+WARN  [health_and_arming_checks] Preflight Fail: Found 0 compass (required: 1)
+WARN  [health_and_arming_checks] Preflight Fail: barometer 0 missing
+WARN  [health_and_arming_checks] Preflight Fail: Found 0 compass (required: 1)
+ERROR [sensors] Accel #0 fail:  TIMEOUT!	
+INFO  [mavlink] partner IP: 127.0.0.1
+WARN  [health_and_arming_checks] Preflight Fail: barometer 0 missing
+WARN  [health_and_arming_checks] Preflight Fail: height estimate not stable
+WARN  [health_and_arming_checks] Preflight Fail: Found 0 compass (required: 1)
+WARN  [health_and_arming_checks] Preflight Fail: barometer 0 missing
+WARN  [health_and_arming_checks] Preflight Fail: Found 0 compass (required: 1)
+ERROR [sensors] Accel #0 fail:  TIMEOUT!	
+WARN  [health_and_arming_checks] Preflight Fail: barometer 0 missing
+WARN  [health_and_arming_checks] Preflight Fail: height estimate not stable
+WARN  [health_and_arming_checks] Preflight Fail: Found 0 compass (required: 1)
+WARN  [health_and_arming_checks] Preflight Fail: barometer 0 missing
+WARN  [health_and_arming_checks] Preflight Fail: height estimate not stable
+WARN  [health_and_arming_checks] Preflight Fail: Found 0 compass (required: 1)
+WARN  [health_and_arming_checks] Preflight Fail: barometer 0 missing
+WARN  [health_and_arming_checks] Preflight Fail: Found 0 compass (required: 1)
+ERROR [sensors] Accel #0 fail:  TIMEOUT!	
+ERROR [sensors] Accel #0 fail:  TIMEOUT!	
+WARN  [health_and_arming_checks] Preflight Fail: barometer 0 missing
+WARN  [health_and_arming_checks] Preflight Fail: Found 0 compass (required: 1)
+INFO  [commander] Connection to ground station lost	
+WARN  [health_and_arming_checks] Preflight Fail: barometer 0 missing
+WARN  [health_and_arming_checks] Preflight Fail: Found 0 compass (required: 1)
+ERROR [sensors] Accel #0 fail:  TIMEOUT!	
+WARN  [health_and_arming_checks] Preflight Fail: barometer 0 missing
+WARN  [health_and_arming_checks] Preflight Fail: height estimate not stable
+WARN  [health_and_arming_checks] Preflight Fail: Found 0 compass (required: 1)
+WARN  [health_and_arming_checks] Preflight Fail: barometer 0 missing
+WARN  [health_and_arming_checks] Preflight Fail: height estimate not stable
+WARN  [health_and_arming_checks] Preflight Fail: Found 0 compass (required: 1)
+WARN  [health_and_arming_checks] Preflight Fail: barometer 0 missing
+WARN  [health_and_arming_checks] Preflight Fail: Found 0 compass (required: 1)
+ERROR [sensors] Accel #0 fail:  TIMEOUT!	
+INFO  [commander] GCS connection regained	
+WARN  [health_and_arming_checks] Preflight Fail: barometer 0 missing
+WARN  [health_and_arming_checks] Preflight Fail: Found 0 compass (required: 1)
+INFO  [commander] Connection to ground station lost	
+WARN  [health_and_arming_checks] Preflight Fail: barometer 0 missing
+WARN  [health_and_arming_checks] Preflight Fail: Found 0 compass (required: 1)

@@ -1,0 +1,6 @@
+SENT: MAVLink2 TUNNEL
+  target=udp:127.0.0.1:18570 from bind=0.0.0.0:14550
+  payload_type=0
+  payload_length=200 (uORB payload buffer is 128 bytes)
+NEXT (evidence):
+  run: px4-listener mavlink_tunnel -n 1
