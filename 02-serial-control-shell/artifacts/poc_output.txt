@@ -1,0 +1,3 @@
+PASS: received SERIAL_CONTROL reply containing 'pxh>'
+reply.device=10 reply.flags=1 reply.count=6
+reply.data_preview= b'\npxh> reflight Fail: Found 0 compass (required: 1)\nalth_and_arming_che'
