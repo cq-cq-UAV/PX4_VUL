@@ -1,7 +1,7 @@
 # PX4 MAVLink: Unauthenticated `SERIAL_CONTROL(SHELL)` prompt exposure (verification)
 
 ## Summary
-PX4 v1.16.1 accepts MAVLink `SERIAL_CONTROL` messages targeting the **shell device** and will emit the interactive shell prompt (`pxh>`) to an unauthenticated sender. This provides evidence that the MAVLink shell output channel can be triggered remotely without MAVLink signing/authentication.
+PX4 v1.16.1 accepts MAVLink `SERIAL_CONTROL` messages targeting the **shell device** and will emit the interactive shell prompt (`pxh>`) to an unauthenticated sender. This provides evidence that the MAVLink shell output channel can be triggered remotely without MAVLink signing/authentication. We have not yet validated version 1.17.1, but it appears that both v1.17.1 and versions prior to 1.16.1 may be affected.
 
 This verification PoC is intentionally **non-destructive**: it sends only a single newline to trigger prompt output, and it does not execute any shell commands.
 
