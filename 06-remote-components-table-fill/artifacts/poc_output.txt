@@ -1,0 +1,2 @@
+sent_distinct_pairs=20 target=udp:127.0.0.1:18570
+NOTE: verify PX4 log contains: 'Max remote components of 16 used up'
